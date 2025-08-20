@@ -15,6 +15,6 @@ Noah Louis Truttmann [https://github.com/NoahTruttmann]
 
 Nayan Antoine Adani []
 
-Hugo Alarc´on Da Costa []
+Hugo Alarcon Da Costa []
 
 
